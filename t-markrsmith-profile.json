@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T00:40:04Z",
+  "IdClaims": [
+    {
+      "Claim": "t:markrsmith"
+    },
+    {
+      "Claim": "mdon:@markrsmith@smithtodon.org"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "904d6b08c369be5afc5615c4",
+    "Timestamp": "2023-04-06T00:42:26Z",
+    "Signature": "8967d63cc145980bae08b2fdb88a7a0e5b813aa4195dd00b43f0897135dc3a754cd3f9fe554542fe514f14a01ed447bd4cd6829747e97cdf58ff1c3b190195b6ee0c69a91a14745ea0099a6e8ec087eb8f7f06ccd6fd5c4026f1c3f893f847a81cfd0cdf27ffc0777feaadc3db7503c13939d6c2f78ea35e5f86f786043d45334ce531c314ad48ae35776c389e5091dcb4a6bf2b74597cf14b7df78d9bce38e4b5bd21d41eea5e0dbfe86199e90dbddcc09cc5e629bc6ce8d1cc0f5193c8f0db0b1872cdb5c56121bd8bfc72d4e5908e84ade048c5d3ed81228c591c06898010eb6fc78dd20382a975aa9b6e677c2b0de010f4a160b4add594ed61179b5359e3"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c400b63c8455bcff324b6ae0bf6873bed49b3a04ce70e8b5944a30aabbe0de5c",
+  "ContentToHash": "v1|mdon:@markrsmith@smithtodon.org,t:markrsmith|2023-04-06T00:40:04Z"
+}
